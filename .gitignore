@@ -1,0 +1,4 @@
+*.vcxproj
+*.user
+bin-int
+bin
